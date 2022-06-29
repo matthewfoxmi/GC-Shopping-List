@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GC Lab Shopping List", "GC Lab Shopping List\GC Lab Shopping List.csproj", "{18C577A2-0710-4944-A2AF-90CB63407A0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18C577A2-0710-4944-A2AF-90CB63407A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C577A2-0710-4944-A2AF-90CB63407A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C577A2-0710-4944-A2AF-90CB63407A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C577A2-0710-4944-A2AF-90CB63407A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A35B8A7-B9A2-478D-BCAA-B0D5E8E22EB1}
+	EndGlobalSection
+EndGlobal
